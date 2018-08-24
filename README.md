@@ -1,2 +1,2 @@
-# Numpy---Data-Analysis-Library-
+# Numpy - Data Analysis Library 
 Numpy tutorial for beginners 
