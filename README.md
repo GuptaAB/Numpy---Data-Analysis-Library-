@@ -1,2 +1,2 @@
 # Numpy - Data Analysis Library 
-Numpy tutorial for beginners 
+Complete Numpy knowledge required for data science is listed here.
